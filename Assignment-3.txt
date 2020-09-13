@@ -51,7 +51,7 @@ ppid of parent process----27222
 pid of child process----10206
 ppid of child process----10205
 ------------------------------------
-
+Ques2:
 #include<iostream>
 #include<unistd.h>
 #include<stdlib.h>
@@ -79,7 +79,7 @@ return 0;
 OUTPUT:
 another scheduling policy
 ---------------------------------
-
+Ques3:
 #include<iostream>
 #include<unistd.h>
 #include<sched.h>
